@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.cache/
+models/scratch-encoder/*.pt
+models/scratch-encoder/*.json
+.vscode/
+.DS_Store
